@@ -1,0 +1,19 @@
+Possible makes:
+1)Lexus
+2)Mitsubishi
+3)Nissan
+4)Mazda
+5)Mercedes
+Database elements:
+Make                     Model                    Year    Mileage        Owner Price
+Mazda                    3                        2008    98000          2     21000
+Mitsubishi               Lancer                   2009    92000          2     35000
+Mitsubishi               Outlander                2009    134000         3     36000
+Nissan                   Juke                     2013    53000          1     42000
+Lexus                    IS200                    2009    140000         3     52000
+Mazda                    MX-5                     2018    12000          1     98000
+Lexus                    RX450h                   2008    187000         2     105000
+Mercedes                 A Class                  2019    2400           1     112000
+Mercedes                 S class                  2018    17000          1     365000
+Nissan                   GTR                      2016    32000          1     435000
+Mercedes                 AMG GT                   2017    9500           1     680000
